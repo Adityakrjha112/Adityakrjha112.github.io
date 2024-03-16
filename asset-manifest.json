@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d500279e.css",
-    "main.js": "/static/js/main.42e268d9.js",
+    "main.js": "/static/js/main.dfe48faf.js",
     "static/media/Movix-i.png": "/static/media/Movix-i.826de723ccc61ad82771.png",
     "static/media/bike-i.png": "/static/media/bike-i.808ab3eee911af75e000.png",
     "static/media/news.png": "/static/media/news.6514b073c3f476077b10.png",
@@ -18,10 +18,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.d500279e.css.map": "/static/css/main.d500279e.css.map",
-    "main.42e268d9.js.map": "/static/js/main.42e268d9.js.map"
+    "main.dfe48faf.js.map": "/static/js/main.dfe48faf.js.map"
   },
   "entrypoints": [
     "static/css/main.d500279e.css",
-    "static/js/main.42e268d9.js"
+    "static/js/main.dfe48faf.js"
   ]
 }
